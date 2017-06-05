@@ -19,4 +19,9 @@ public class HelloController {
 		Date date = new Date();
 		return date;
 	}
+	
+	@RequestMapping("/hello")
+	public String helloWorld() {
+		return "Hello World";
+	}
 }

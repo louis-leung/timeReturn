@@ -19,10 +19,10 @@ public class TimeReturnApplicationTests {
 	public void samplePassedTest() {
 		assertTrue(true);
 	}
-	
+	/*
 	@Test
 	public void sampleFailedTest() {
 		assertTrue(false);
 	}
-	
+	*/
 }
